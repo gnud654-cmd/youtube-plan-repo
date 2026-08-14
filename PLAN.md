@@ -1,29 +1,29 @@
-# KẾ HOẠCH SẢN XUẤT NỘI DUNG (PLAN.MD)
-
-## 1. VIDEO CA SÁNG (09:00 AM)
-- **Tiêu đề dự kiến**: Sẽ Thế Nào Nếu Một Đội Tuyển Esports Việt Nam Chính Thức Gia Nhập Giải Đấu LCK Hàn Quốc?
-- **Định dạng**: Video màn hình ngang (16:9), độ phân giải Full HD/4K.
-- **Thời lượng**: 5 - 7 phút.
-- **Tóm tắt & Yêu cầu kịch bản**:
-  - **Mở đầu (Hook)**: Đặt giả thuyết chấn động giới Esports nếu một đại diện Việt Nam bước chân vào thánh địa LCK – giải đấu khắc nghiệt và danh giá nhất của LMHT toàn cầu.
-  - **Nội dung chính**:
-    1. Cú sốc truyền thông và bản quyền phát sóng: Hiệu ứng bùng nổ người xem từ cộng đồng fan Việt và sự chú ý của truyền thông quốc tế.
-    2. Rào cản chiến thuật và cường độ tập luyện khắc nghiệt: So sánh khoảng cách trình độ, văn hóa 'gaming house' cực đoan và kỷ luật thép của các đội tuyển hàng đầu LCK như Gen.G, T1 hay HLE.
-    3. Kịch bản thi đấu giả định: Những trận đối đầu nảy lửa, khả năng tạo nên bất ngờ hay nguy cơ bị áp đảo hoàn toàn.
-    4. Tác động dài hạn: Bước ngoặt nâng tầm nền thể thao điện tử nước nhà và cơ hội cho các tài năng trẻ.
-  - **Kết luận (CTA)**: Đặt câu hỏi thảo luận cho khán giả về đội hình trong mơ của Việt Nam đủ sức cạnh tranh tại LCK. Kêu gọi like, share và đăng ký kênh.
+# KẾ HOẠCH SẢN XUẤT NỘI DUNG YOUTUBE (PLAN.MD)
 
 ---
 
-## 2. VIDEO CA TỐI (20:00 PM)
-- **Tiêu đề dự kiến**: Điều Gì Sẽ Xảy Ra Nếu Show Âm Nhạc Anh Trai Vượt Ngàn Chông Gai Mở Rộng Quy Mô Đại Chiến Châu Á?
-- **Định dạng**: Video màn hình ngang (16:9), độ phân giải Full HD/4K.
-- **Thời lượng**: 5 - 7 phút.
-- **Tóm tắt & Yêu cầu kịch bản**:
-  - **Mở đầu (Hook)**: Cơn sốt âm nhạc bùng nổ khắp mạng xã hội từ 'Anh Trai Vượt Ngàn Chông Gai' – liệu điều gì sẽ xảy ra nếu format này nâng cấp thành sàn đấu âm nhạc quốc tế quy tụ nghệ sĩ hàng đầu khắp châu Á?
-  - **Nội dung chính**:
-    1. Giao thoa văn hóa và âm nhạc: Cuộc chạm trán giữa phong cách biểu diễn Việt Nam với các nền công nghiệp âm nhạc Kpop, Jpop, Cpop.
-    2. Kỹ nghệ sản xuất & Sân khấu trình diễn: Thử thách về tiêu chuẩn âm thanh, ánh sáng, vũ đạo và đạo diễn sân khấu đạt đẳng cấp quốc tế.
-    3. Cuộc chiến truyền thông và Vote toàn cầu: Cạnh tranh khốc liệt giữa các fandom đa quốc gia, tạo nên làn sóng thảo luận chưa từng có trên mọi nền tảng.
-    4. Cơ hội vàng đưa âm nhạc đương đại Việt Nam vươn tầm thế giới.
-  - **Kết luận (CTA)**: Khơi gợi bình luận về nghệ sĩ quốc tế nào khán giả mong muốn thấy chung sân khấu nhất. Kêu gọi tương tác và bấm chuông thông báo.
+## 🌅 VIDEO 1: CA SÁNG (09:00 AM) - CORE NICHE 80% (KHOA HỌC / THẢM HỌA GIẢ ĐỊNH)
+- **Tiêu đề dự kiến:** Điều Gì Sẽ Xảy Ra Nếu Trọng Lực Trái Đất Tăng Gấp Đôi Trong 5 Phút?
+- **Định dạng:** Màn hình ngang (16:9), Độ phân giải Full HD / 4K.
+- **Thời lượng:** 5 - 7 phút.
+- **Ngách:** Khoa học Vật lý / Thảm họa giả định (What If).
+- **Tóm tắt & Yêu cầu kịch bản:**
+  1. **Hook (0:00 - 0:45):** Mô phỏng khoảnh khắc đột ngột trọng lực Trái Đất (1G) tăng vọt lên 2G. Con người khuỵu ngã, các công trình bắt đầu nứt vỡ.
+  2. **Diễn biến sinh học (0:45 - 2:30):** Phân tích áp lực lên hệ tuần hoàn, tim phải đập nhanh gấp đôi để bơm máu lên não, xương khớp và cơ bắp chịu tải trọng khổng lồ.
+  3. **Tác động địa chất & khí quyển (2:30 - 4:15):** Áp suất khí quyển nén chặt, tầng ozone bị co hẹp, các mảng kiến tạo dịch chuyển gây động đất và sóng thần toàn cầu.
+  4. **Hồi kết & Khôi phục (4:15 - 5:30):** Sau 5 phút, khi trọng lực trở lại 1G, Trái Đất sẽ phục hồi như thế nào và bài học về sự cân bằng hoàn hảo của vũ trụ.
+- **Visual & Audio:** Giọng đọc tài liệu kịch tính, dồn dập; hiệu ứng hình ảnh 3D mô phỏng sụp đổ vật lý, sóng xung kích.
+
+---
+
+## 🌙 VIDEO 2: CA TỐI (20:00 PM) - TREND ADAPTATION 20% (BẺ LÁI XU HƯỚNG SANG KHOA HỌC/TÂM LÝ)
+- **Tiêu đề dự kiến:** Tại Sao Não Bộ Con Người Lại Bị "Thôi Miên" Bởi Giai Điệu Bắt Tai? | Bí Mật Khoa Học Của Hit Triệu View
+- **Định dạng:** Màn hình ngang (16:9), Độ phân giải Full HD / 4K.
+- **Thời lượng:** 5 - 7 phút.
+- **Ngách:** Thần kinh học / Tâm lý học & Công nghệ âm thanh (Bẻ lái từ xu hướng các bản hit âm nhạc đỉnh bảng như TINH HÀ SAY HI, DTAP).
+- **Tóm tắt & Yêu cầu kịch bản:**
+  1. **Hook (0:00 - 0:45):** Tại sao một giai điệu ngắn chỉ vài giây lại có thể mắc kẹt trong đầu bạn hàng tuần liền ("sâu tai" - Earworm effect)?
+  2. **Cơ chế Dopamine & Thần kinh học (0:45 - 2:45):** Giải mã cách cấu trúc hợp âm bắt tai kích hoạt thụ thể phần thưởng trong não bộ, phóng thích dopamine tương tự các chất gây nghiện nhẹ.
+  3. **Thuật toán & Công nghệ tạo hit (2:45 - 4:30):** Cách các nhà sản xuất âm nhạc và AI phân tích tần số âm thanh (Hook, Drop, Beat 120-130 BPM) để đồng bộ nhịp tim người nghe.
+  4. **Góc nhìn tương lai (4:30 - 5:30):** Liệu AI có thể thao túng cảm xúc nhân loại thông qua các bản nhạc được tối ưu hóa sóng não hoàn hảo?
+- **Visual & Audio:** Hình ảnh đồ họa sóng não thần kinh, visualizer âm thanh hiện đại, phong cách khoa học cuốn hút, giải thích trực quan.
