@@ -1,29 +1,31 @@
-# KẾ HOẠCH SẢN XUẤT NỘI DUNG YOUTUBE (PLAN.MD)
+# KẾ HOẠCH SẢN XUẤT NỘI DUNG YOUTUBE
 
 ---
 
-## 🌅 VIDEO 1: CA SÁNG (09:00 AM) - CORE NICHE 80% (KHOA HỌC / THẢM HỌA GIẢ ĐỊNH)
-- **Tiêu đề dự kiến:** Điều Gì Sẽ Xảy Ra Nếu Trọng Lực Trái Đất Tăng Gấp Đôi Trong 5 Phút?
-- **Định dạng:** Màn hình ngang (16:9), Độ phân giải Full HD / 4K.
+## 🌅 VIDEO 1 (CA SÁNG - PHÁT HÀNH 09:00 AM)
+**Nhóm nội dung:** 80% Core Niche (Khoa học - Thảm họa giả định - Vật lý)
+- **Tiêu đề dự kiến:** *Sẽ Thế Nào Nếu Trọng Lực Trái Đất Biến Mất Trong 5 Giây? | Thảm Họa Giả Định*
+- **Định dạng:** 16:9, Full HD/4K.
 - **Thời lượng:** 5 - 7 phút.
-- **Ngách:** Khoa học Vật lý / Thảm họa giả định (What If).
-- **Tóm tắt & Yêu cầu kịch bản:**
-  1. **Hook (0:00 - 0:45):** Mô phỏng khoảnh khắc đột ngột trọng lực Trái Đất (1G) tăng vọt lên 2G. Con người khuỵu ngã, các công trình bắt đầu nứt vỡ.
-  2. **Diễn biến sinh học (0:45 - 2:30):** Phân tích áp lực lên hệ tuần hoàn, tim phải đập nhanh gấp đôi để bơm máu lên não, xương khớp và cơ bắp chịu tải trọng khổng lồ.
-  3. **Tác động địa chất & khí quyển (2:30 - 4:15):** Áp suất khí quyển nén chặt, tầng ozone bị co hẹp, các mảng kiến tạo dịch chuyển gây động đất và sóng thần toàn cầu.
-  4. **Hồi kết & Khôi phục (4:15 - 5:30):** Sau 5 phút, khi trọng lực trở lại 1G, Trái Đất sẽ phục hồi như thế nào và bài học về sự cân bằng hoàn hảo của vũ trụ.
-- **Visual & Audio:** Giọng đọc tài liệu kịch tính, dồn dập; hiệu ứng hình ảnh 3D mô phỏng sụp đổ vật lý, sóng xung kích.
+- **Tóm tắt nội dung:** 
+  + Phân tích từng giây một khi lực hấp dẫn đột ngột biến mất: Không khí, đại dương và mọi sinh vật bị văng vào không gian do vận tốc tự quay của Trái Đất (1.670 km/h tại xích đạo).
+  + Cấu trúc hạ tầng, vỏ Trái Đất bị xé toạc do áp suất bên trong bùng nổ.
+  + Giây thứ 5 khi trọng lực quay trở lại: Sự sụp đổ kinh hoàng và hậu quả xóa sổ nền văn minh nhân loại.
+- **Yêu cầu kịch bản & sản xuất:**
+  + Giọng đọc kịch tính, dồn dập, phong cách phim tài liệu khoa học viễn tưởng.
+  + **Yêu cầu Shorts:** Xây dựng ít nhất 1 phân đoạn cao trào điểm nhấn (Climax Hook 30-60s) mô tả khoảnh khắc ở giây thứ 3 và thứ 5 khi mọi thứ va đập sụp đổ cực độ để trích xuất thành 1 video YouTube Short chất lượng cao.
 
 ---
 
-## 🌙 VIDEO 2: CA TỐI (20:00 PM) - TREND ADAPTATION 20% (BẺ LÁI XU HƯỚNG SANG KHOA HỌC/TÂM LÝ)
-- **Tiêu đề dự kiến:** Tại Sao Não Bộ Con Người Lại Bị "Thôi Miên" Bởi Giai Điệu Bắt Tai? | Bí Mật Khoa Học Của Hit Triệu View
-- **Định dạng:** Màn hình ngang (16:9), Độ phân giải Full HD / 4K.
+## 🌙 VIDEO 2 (CA TỐI - PHÁT HÀNH 20:00 PM)
+**Nhóm nội dung:** 20% Bám Trend bẻ lái Khoa học Thần kinh / Tâm lý học (Bắt trend Music Show / Hit Viral)
+- **Tiêu đề dự kiến:** *Tại Sao Não Bộ Con Người Lại Bị 'Thôi Miên' Bởi Những Bản Hit Bắt Tai? | Bí Ẩn Thần Kinh Học*
+- **Định dạng:** 16:9, Full HD/4K.
 - **Thời lượng:** 5 - 7 phút.
-- **Ngách:** Thần kinh học / Tâm lý học & Công nghệ âm thanh (Bẻ lái từ xu hướng các bản hit âm nhạc đỉnh bảng như TINH HÀ SAY HI, DTAP).
-- **Tóm tắt & Yêu cầu kịch bản:**
-  1. **Hook (0:00 - 0:45):** Tại sao một giai điệu ngắn chỉ vài giây lại có thể mắc kẹt trong đầu bạn hàng tuần liền ("sâu tai" - Earworm effect)?
-  2. **Cơ chế Dopamine & Thần kinh học (0:45 - 2:45):** Giải mã cách cấu trúc hợp âm bắt tai kích hoạt thụ thể phần thưởng trong não bộ, phóng thích dopamine tương tự các chất gây nghiện nhẹ.
-  3. **Thuật toán & Công nghệ tạo hit (2:45 - 4:30):** Cách các nhà sản xuất âm nhạc và AI phân tích tần số âm thanh (Hook, Drop, Beat 120-130 BPM) để đồng bộ nhịp tim người nghe.
-  4. **Góc nhìn tương lai (4:30 - 5:30):** Liệu AI có thể thao túng cảm xúc nhân loại thông qua các bản nhạc được tối ưu hóa sóng não hoàn hảo?
-- **Visual & Audio:** Hình ảnh đồ họa sóng não thần kinh, visualizer âm thanh hiện đại, phong cách khoa học cuốn hút, giải thích trực quan.
+- **Tóm tắt nội dung:**
+  + Giải mã hiện tượng các ca khúc thịnh hành (như trong Tinh Hà Say Hi, Anh Trai Vượt Ngàn Chông Gai) liên tục luẩn quẩn trong đầu bạn ('Earworm' - Sâu tai).
+  + Cơ chế thần kinh học: Vòng lặp giải phóng Dopamine và phản ứng của hạch hạnh nhân (Amygdala) khi nghe cấu trúc hợp âm bắt tai.
+  + Thí nghiệm khoa học về việc liệu âm nhạc có thể thao túng tâm lý và năng suất làm việc của con người hay không.
+- **Yêu cầu kịch bản & sản xuất:**
+  + Dẫn dắt lôi cuốn, giải thích thuật ngữ y sinh học một cách trực quan, sinh động.
+  + **Yêu cầu Shorts:** Xây dựng ít nhất 1 phân đoạn cao trào điểm nhấn (Climax Hook 30-60s) giải mã hiện tượng 'Earworm' gây ám ảnh não bộ cực kỳ bất ngờ để trích xuất đăng YouTube Short.
