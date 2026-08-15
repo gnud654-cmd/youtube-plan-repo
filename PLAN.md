@@ -8,23 +8,24 @@
 * **Tiêu đề dự kiến:** *Ảo Thuật Gia Đọc Suy Nghĩ Của Bạn Như Thế Nào Trong 3 Giây? 🧠 #Shorts*
 * **Thời lượng:** 40 giây
 * **Tóm tắt nội dung & Kịch bản:**
-  - `00:00 - 00:03` (Hook 3s): "Bạn nghĩ tâm trí bạn là một pháo đài bí mật? Hãy chọn nhanh một hình học cơ bản trong đầu... Bạn đang nghĩ đến HÌNH TRÒN hoặc TAM GIÁC đúng không?" (Không bắt tính toán phức tạp, dùng bẫy tâm lý chọn phản xạ).
-  - `00:04 - 00:25` (Thắt nút): 85% người xem sẽ rơi vào cái bẫy này vì nguyên lý 'Thành kiến nhận thức' (Cognitive Bias) và 'Hiệu ứng mồi' (Priming Effect). Ảo thuật gia không hề có siêu năng lực, họ chỉ cài cắm dữ liệu vào não bạn trước khi bạn kịp nhận ra.
-  - `00:26 - 00:40` (Cliffhanger): "Bạn muốn biết 3 câu hỏi mà mọi nhà ngoại cảm dùng để bóc trần toàn bộ quá khứ của người lạ? 👉 Bấm ngay vào link Video Liên Quan ở góc dưới để xem bản giải mã chi tiết tối nay!"
-* **Visual & Audio Prompt:** Hiệu ứng camera zoom cận mắt, sóng não phát quang quét qua màn hình dọc, text động to rõ nằm ở Safe Zone trung tâm, âm thanh bass drop dồn dập.
+  - `00:00 - 00:03` (Hook 3s): "Bạn nghĩ tâm trí bạn là một pháo đài bí mật? Hãy chọn nhanh một hình học cơ bản trong đầu... Bạn đang nghĩ đến HÌNH TRÒN hoặc TAM GIÁC đúng không?" (Dùng bẫy tâm lý chọn phản xạ nhanh).
+  - `00:04 - 00:25` (Thắt nút): 85% người xem rơi vào bẫy này do nguyên lý 'Hiệu ứng mồi' (Priming) và 'Thành kiến nhận thức'. Ảo thuật gia không có siêu năng lực, họ chỉ cài cắm tín hiệu vào mắt và não bạn trước khi bạn kịp suy nghĩ.
+  - `00:26 - 00:40` (Cliffhanger): "Bạn muốn biết 3 câu hỏi mà mọi nhà ngoại cảm dùng để bóc trần toàn bộ bí mật của người lạ? 👉 Bấm ngay vào link Video Liên Quan ở góc dưới để xem bản giải mã chi tiết tối nay!"
+* **Visual & Graphic Prompt (Không yêu cầu âm thanh):** Camera zoom cận cảnh mắt chuyển động, đồ họa sóng não phát sáng quét dọc màn hình, Text phụ đề động to rõ nằm ở Safe Zone trung tâm (màu vàng - trắng nổi bật).
 
 ---
 
-### 📱 2. SHORT 2: ĐỘC LẬP / HACK GIÁC QUAN (Tỷ lệ 9:16 - Dọc Native)
-* **Mục tiêu:** Thử thách ảo giác âm thanh giật gân, tạo vòng lặp vô tận (Infinite Loop) giữ chân khán giả và kéo người đăng ký mới.
+### 📱 2. SHORT 2: ĐỘC LẬP / HACK THỊ GIÁC (Tỷ lệ 9:16 - Dọc Native)
+* **Mục tiêu:** Thử thách ảo giác quang học hack trực tiếp não bộ thị giác (Troxler's Fading), tạo vòng lặp vô tận (Infinite Loop) giữ chân khán giả và kéo Sub mới.
 * **Timeline sản xuất:** Bắt đầu dựng: `17:20 - 17:30` | Render & Upload nháp: `17:45` | **Xuất bản chính thức: 18:00 PM**
-* **Tiêu đề dự kiến:** *Âm Thanh Này Sẽ Không Bao Giờ Dừng Lại! (Ảo Giác Shepard Tone) 🔊 #Shorts*
-* **Thời lượng:** 38 giây
+* **Tiêu đề dự kiến:** *Nhìn Vào Chấm Đỏ Này, Cả Thế Giới Sẽ Biến Mất! (Ảo Giác Troxler) 👁️ #Shorts*
+* **Thời lượng:** 35 giây
 * **Tóm tắt nội dung & Kịch bản:**
-  - `00:00 - 00:05` (Hook): "Đeo tai nghe vào! Âm thanh bạn sắp nghe sẽ liên tục tăng cao độ mãi mãi mà không có điểm dừng..."
-  - `00:06 - 00:28` (Trải nghiệm ảo giác): Bật đoạn âm thanh Shepard Tone cao độ tăng dần liên tục. Não bộ bị lừa vì 3 lớp sóng âm chồng lên nhau với biên độ âm lượng biến thiên liên tục. Đây chính là bí mật tạo cảm giác hồi hộp nghẹt thở của đạo diễn Christopher Nolan trong phim Dunkirk và Inception.
-  - `00:29 - 00:38` (Seamless Loop): Đoạn kết chuyển êm về câu mở đầu: "Và điều kỳ lạ là... Đeo tai nghe vào! Âm thanh bạn sắp nghe..."
-* **Visual & Audio Prompt:** Đồ thị sóng âm 3D xoắn ốc vô tận, visual đen trắng tương phản cao phong cách Sci-fi, âm thanh Shepard Tone stereo chuẩn nét.
+  - `00:00 - 00:04` (Hook): "Đừng chớp mắt! Hãy nhìn chằm chằm vào chấm đỏ ở giữa màn hình trong đúng 10 giây..."
+  - `00:05 - 00:20` (Trải nghiệm ảo giác thị giác): Hiển thị vòng tròn các chấm màu nhạt xung quanh một chấm đỏ trung tâm. Sau 8-10 giây nhìn cố định, vòng tròn màu bên ngoài hoàn toàn biến mất trong mắt người xem.
+  - `00:21 - 00:28` (Giải mã khoa học): Đây là hiệu ứng suy giảm thần kinh thị giác (Troxler's Fading) – não bộ tự động xóa bỏ các hình ảnh tĩnh không đổi ở vùng nhìn ngoại vi để tiết kiệm năng lượng xử lý.
+  - `00:29 - 00:35` (Seamless Loop): Chuyển cảnh mượt mà trở lại câu mở đầu: "Nếu bạn vừa thấy nó biến mất, hãy thử lại và... Đừng chớp mắt! Hãy nhìn chằm chằm vào..."
+* **Visual & Graphic Prompt (Không yêu cầu âm thanh):** Đồ họa vòng tròn quang học tương phản cao, đếm ngược giây 3-2-1 hiển thị nổi bật ở giữa màn hình dọc, hiệu ứng làm mờ nền xung quanh tạo cảm giác biến mất rõ rệt.
 
 ---
 
@@ -34,8 +35,8 @@
 * **Tiêu đề dự kiến:** *Bí Mật Đọc Nguội: Khoa Học Đằng Sau Những Màn 'Thao Túng Tâm Trí' Đỉnh Cao Nhất Thế Giới*
 * **Thời lượng:** 6 - 8 phút
 * **Tóm tắt cấu trúc kịch bản chuyên sâu:**
-  - `Phần 1: Màn ảo thuật bất khả thi (0:00 - 1:30):` Tái hiện màn biểu diễn đọc suy nghĩ của các Mentalist lừng danh thế giới (Derren Brown, Uri Geller). Tại sao họ biết chính xác tên mối tình đầu hay bức tranh bạn vừa vẽ kín trong phòng tối?
-  - `Phần 2: Giải mã cơ chế 'Đọc Nguội' (Cold Reading) (1:31 - 3:30):` Phân tích tâm lý học vi biểu cảm (Micro-expressions), ngôn ngữ cơ thể vô thức và kỹ thuật 'Hiệu ứng Barnum' – cách nói những câu chung chung nhưng khiến ai cũng tưởng đang nói riêng về mình.
-  - `Phần 3: Hack hệ thần kinh – Ảo giác bàn tay cao su (3:31 - 5:30):` Thí nghiệm kinh điển chứng minh não bộ dễ bị đánh lừa cảm giác xúc giác và quyền sở hữu cơ thể chỉ sau 60 giây kích thích đồng bộ.
-  - `Phần 4: Bài học phòng vệ tâm lý trong đời sống (5:31 - Kết):` Cách các tập đoàn quảng cáo, sòng bạc casino và thuật toán mạng xã hội đang áp dụng chính những nguyên lý này để thao túng hành vi tiêu dùng mỗi ngày.
-* **Visual & Audio Prompt:** Tư liệu phòng thí nghiệm thần kinh chất lượng cao, animation giải thích cấu trúc não bộ (Amygdala, Visual Cortex), tông màu Cinematic kịch tính, voiceover trầm ấm cuốn hút.
+  - `Phần 1: Màn ảo thuật bất khả thi (0:00 - 1:30):` Tái hiện màn biểu diễn đọc suy nghĩ của các Mentalist lừng danh thế giới. Tại sao họ biết chính xác tên mối tình đầu hay bức tranh bạn vừa vẽ kín trong phòng tối?
+  - `Phần 2: Giải mã cơ chế 'Đọc Nguội' (Cold Reading) (1:31 - 3:30):` Phân tích tâm lý học vi biểu cảm khuôn mặt (Micro-expressions), ngôn ngữ cơ thể vô thức và kỹ thuật 'Hiệu ứng Barnum' – cách nói những câu chung chung nhưng khiến ai cũng tưởng đang nói riêng về mình.
+  - `Phần 3: Hack hệ thần kinh – Ảo giác bàn tay cao su (3:31 - 5:30):` Thí nghiệm kinh điển chứng minh não bộ dễ bị đánh lừa cảm giác xúc giác và quyền sở hữu cơ thể chỉ sau 60 giây kích thích thị giác đồng bộ.
+  - `Phần 4: Bài học phòng vệ tâm lý trong đời sống (5:31 - Kết):` Cách các chiến dịch quảng cáo, sòng bạc casino và thuật toán mạng xã hội áp dụng nguyên lý này để thao túng hành vi người dùng mỗi ngày.
+* **Visual & Graphic Prompt (Không yêu cầu âm thanh):** Tư liệu phòng thí nghiệm thần kinh chất lượng cao, đồ họa 3D mô phỏng não bộ (Amygdala, Visual Cortex), hiệu ứng text chú thích khoa học điện ảnh Cinematic.
