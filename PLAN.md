@@ -10,14 +10,13 @@
 * **Kịch bản Lời bình (Voiceover) & Text On Screen:**
   - `00:00 - 00:03` (Hook 3s): "Bạn nghĩ tâm trí bạn là một pháo đài bí mật? Hãy chọn nhanh một hình học cơ bản trong đầu... Bạn đang nghĩ đến HÌNH TRÒN hoặc TAM GIÁC đúng không?"
     * *Text On Screen:* **HÌNH TRÒN hay TAM GIÁC? 🔴🔺** (Chữ vàng lớn giữa màn hình).
+    * *Gợi ý B-roll:* Người đang trầm ngâm suy nghĩ / cận cảnh mắt tập trung.
   - `00:04 - 00:25` (Thắt nút): "85% người xem rơi vào bẫy này do nguyên lý 'Hiệu ứng mồi' (Priming). Ảo thuật gia không hề có siêu năng lực, họ chỉ cài cắm tín hiệu vào mắt và não bạn trước khi bạn kịp suy nghĩ."
     * *Text On Screen:* **BẪY TÂM LÝ 'HIỆU ỨNG MỒI' 🧠**
+    * *Gợi ý B-roll:* Ảo thuật gia đang xòe bộ bài tây / đôi bàn tay biến hóa.
   - `00:26 - 00:40` (Cliffhanger): "Bạn muốn biết 3 câu hỏi mà mọi nhà ngoại cảm dùng để bóc trần toàn bộ bí mật của người lạ? 👉 Bấm ngay vào link Video Liên Quan ở góc dưới để xem bản giải mã chi tiết tối nay!"
     * *Text On Screen:* **BẤM XEM VIDEO LIÊN QUAN Ở DƯỚI 👇**
-* **Gợi ý B-roll & Từ khóa tìm kiếm trên Pexels / Pixabay (Miễn phí, dễ tìm 100%):**
-  - Phân cảnh 1 (0-3s): `person thinking`, `human brain abstract`, `eye close up`
-  - Phân cảnh 2 (4-25s): `magician playing cards`, `magic trick hands`, `card shuffle`
-  - Phân cảnh 3 (26-40s): `clock ticking countdown`, `spotlight dark`, `mystery silhouette`
+    * *Gợi ý B-roll:* Đồng hồ đếm ngược / ánh đèn sân khấu ma mị.
 
 ---
 
@@ -29,16 +28,15 @@
 * **Kịch bản Lời bình (Voiceover) & Text On Screen:**
   - `00:00 - 00:04` (Hook 3s): "Bạn bước vào một sòng bạc và nhận ra... hoàn toàn không có bất kỳ chiếc đồng hồ hay cửa sổ nào! Tại sao?"
     * *Text On Screen:* **KHÔNG ĐỒNG HỒ! KHÔNG CỬA SỔ? ⏰🚫**
+    * *Gợi ý B-roll:* Bàn quay Roulette xoay tròn / ánh đèn neon rực rỡ.
   - `00:05 - 00:20` (Giải mã khoa học): "Đây là bẫy tâm lý 'Mất Nhận Thức Thời Gian' (Temporal Disorientation). Khi không thấy ánh sáng mặt trời hay giờ giấc, não bộ ngừng tiết hormone kiểm soát thời gian, khiến bạn chơi thâu đêm suốt sáng mà ngỡ chỉ mới vài phút."
     * *Text On Screen:* **BẪY XÓA BỎ KHÁI NIỆM THỜI GIAN ⏳**
+    * *Gợi ý B-roll:* Cát trong đồng hồ cát rơi nhanh / người chơi đếm tiền xèng.
   - `00:21 - 00:28` (Fact thú vị): "Thậm chí thảm trải sàn casino cũng được thiết kế với hoa văn rối mắt để giữ não luôn trong trạng thái phấn khích cao độ."
     * *Text On Screen:* **HOA VĂN HACK NÃO BỘ 🌀**
+    * *Gợi ý B-roll:* Không gian sòng bạc sang trọng / hoa văn trừu tượng.
   - `00:29 - 00:35` (Seamless Loop): "Đó chính là lý do vì sao... Bạn bước vào một sòng bạc và nhận ra..."
-* **Gợi ý B-roll & Từ khóa tìm kiếm trên Pexels / Pixabay (Miễn phí, dễ tìm 100%):**
-  - Phân cảnh 1 (0-4s): `casino roulette wheel`, `casino lights neon`, `chips gamble`
-  - Phân cảnh 2 (5-20s): `hourglass sand falling`, `poker chips money`, `casino player`
-  - Phân cảnh 3 (21-28s): `luxury casino interior`, `abstract psychedelic pattern`, `neon city night`
-  - Phân cảnh 4 (29-35s): `roulette spinning close up`, `slot machine blur`
+    * *Gợi ý B-roll:* Vòng quay Roulette quay chậm lại tạo loop.
 
 ---
 
@@ -49,8 +47,10 @@
 * **Thời lượng:** 6 - 8 phút
 * **Tóm tắt cấu trúc kịch bản chuyên sâu:**
   - `Phần 1: Màn ảo thuật bất khả thi (0:00 - 1:30):` Tái hiện màn biểu diễn đọc suy nghĩ của các Mentalist lừng danh thế giới. Tại sao họ biết chính xác tên mối tình đầu hay bức tranh bạn vừa vẽ kín trong phòng tối?
+    * *Gợi ý B-roll:* Ảo thuật gia biểu diễn trên sân khấu lớn, khán giả kinh ngạc.
   - `Phần 2: Giải mã cơ chế 'Đọc Nguội' (Cold Reading) (1:31 - 3:30):` Phân tích tâm lý học vi biểu cảm khuôn mặt (Micro-expressions), ngôn ngữ cơ thể vô thức và kỹ thuật 'Hiệu ứng Barnum' – cách nói những câu chung chung nhưng khiến ai cũng tưởng đang nói riêng về mình.
+    * *Gợi ý B-roll:* Cận cảnh biểu cảm khuôn mặt, ánh mắt, phòng thẩm vấn tâm lý.
   - `Phần 3: Thao túng giác quan & Ảo giác cơ thể (3:31 - 5:30):` Thí nghiệm kinh điển chứng minh não bộ dễ bị đánh lừa nhận thức và quyền sở hữu cảm giác chỉ sau 60 giây kích thích thị giác đồng bộ.
+    * *Gợi ý B-roll:* Mô phỏng mạng lưới thần kinh trừu tượng, đồ họa hạt phát sáng.
   - `Phần 4: Bài học phòng vệ tâm lý trong đời sống (5:31 - Kết):` Cách các chiến dịch quảng cáo, sòng bạc casino và thuật toán mạng xã hội áp dụng nguyên lý này để thao túng hành vi người dùng mỗi ngày.
-* **Gợi ý B-roll & Từ khóa tìm kiếm trên Pexels / Pixabay (Miễn phí, dễ tìm 100%):**
-  - `stage magician audience`, `illusionist performance`, `micro expressions face`, `human face portrait dark`, `detective interrogation`, `chess game thinking`, `neural network abstract`, `glowing particles abstract`
+    * *Gợi ý B-roll:* Thành phố về đêm lung linh, bàn cờ vua chiến thuật.
