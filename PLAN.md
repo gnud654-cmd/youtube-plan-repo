@@ -9,14 +9,14 @@
 
 ---
 
-### 📱 2. SHORT 2: VẬT LÝ & HÓA HỌC ĐỜI SỐNG HÀNG NGÀY (9:16)
+### 📱 2. SHORT 2: VẬT LÝ & SINH HỌC TIẾN HÓA (Minecraft / Titan Trend) (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 17:20 - 17:30 | Render & Upload: 17:45 | **Xuất bản: 18:00 PM**
-* **Chủ đề / Tiêu đề:** Bí Mật Tĩnh Điện Mùa Đông: Tại Sao Sờ Tay Nắm Cửa Lại Bị Giật Đột Ngột? ⚡
-* **Ý tưởng cốt lõi:** Giải mã hiện tượng tĩnh điện do sự dịch chuyển electron khi không khí khô hạn, biến cơ thể bạn thành một 'viên pin' tích điện chờ xả ngay khi chạm vào kim loại.
+* **Chủ đề / Tiêu đề:** Tại Sao Quái Vật Khổng Lồ (Titan) KHÔNG THỂ Tồn Tại Trên Trái Đất? 🦖
+* **Ý tưởng cốt lõi:** Dựa theo trend Minecraft Xây Thành Chống Titan. Giải thích "Định luật Bình phương - Lập phương" (Square-Cube Law): Nếu phóng to một sinh vật gấp 10 lần, khối lượng của nó sẽ tăng gấp 1000 lần. Xương của chúng sẽ lập tức gãy vụn dưới sức nặng của chính mình!
 
 ---
 
-### 📱 3. SHORT 3: TÂM LÝ HỌC HÀNH VI & ĐỜI THƯỜNG (9:16)
+### 📱 3. SHORT 3: SINH HỌC THẦN KINH (eSports / LCK Trend) (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** Hội Chứng Rung Ảo: Tại Sao Bạn Luôn Cảm Thấy Điện Thoại Rung Dù Không Có Tin Nhắn? 📱
-* **Ý tưởng cốt lõi:** Giải mã hiện tượng Phantom Vibration Syndrome – khi não bộ bị 'nghiện' dopamine đến mức biến mọi sự co giật cơ nhẹ ở đùi thành tín hiệu thông báo giả từ điện thoại.
+* **Chủ đề / Tiêu đề:** Tốc Độ Phản Xạ Của Bạn Nhanh Cỡ Nào? Tại Sao KHÔNG THỂ Làm Tuyển Thủ eSports? ⚡
+* **Ý tưởng cốt lõi:** Dựa theo trend giải đấu LCK / T1. Giải thích giới hạn vật lý của con người về tốc độ truyền tín hiệu điện thần kinh (chỉ khoảng 120 mét/giây). Phản xạ 0.15s của các tuyển thủ eSports đã gần chạm tới ngưỡng giới hạn tuyệt đối của loài người.
