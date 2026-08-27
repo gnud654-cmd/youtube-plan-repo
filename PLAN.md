@@ -2,21 +2,21 @@
 
 ---
 
-### 📱 1. SHORT 1: HÓA HỌC ẨM THỰC & BIẾN TÍNH PROTEIN (Trend Trộm Trứng Rồng) (9:16)
+### 📱 1. SHORT 1: SINH HỌC / HÓA HỌC THỰC PHẨM & CƠ THỂ (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 10:50 - 11:00 | Render & Upload: 11:15 | **Xuất bản: 11:30 AM**
-* **Chủ đề / Tiêu đề:** Bí Mật "Trứng Rồng": Khoa Học Đã Biến Quả Trứng ĐÃ LUỘC CHÍN... Sống Lại Như Thế Nào? 🥚🔥
-* **Ý tưởng cốt lõi:** Bắt trend Roblox Trộm Trứng Rồng. Giải thích hiện tượng biến tính protein (Ovalbumin) khi gặp nhiệt độ cao và đột phá khoa học (đoạt giải Ig Nobel) sử dụng máy cắt xoáy chất lỏng để duỗi ngược chuỗi protein bị rối, biến lòng trắng trứng luộc đông cứng trở lại dạng lỏng trong suốt ban đầu.
+* **Chủ đề / Tiêu đề:** Tại Sao Ăn Cay Uống Nước Lọc Không Hết Bỏng Rát? Bí Mật Hóa Học Trên Lưỡi!
+* **Ý tưởng cốt lõi:** Giải thích lý do hợp chất Capsaicin gây cay là chất kỵ nước nên nước lọc chỉ làm lan rộng độ cay. Chỉ có protein Casein trong sữa tươi/sữa chua mới đánh tan và rửa trôi được Capsaicin.
 
 ---
 
-### 📱 2. SHORT 2: SINH LÝ HỌC PHẢN XẠ SỢ HÃI & TUẦN HOÀN (Trend Trốn Tìm Minecraft) (9:16)
+### 📱 2. SHORT 2: VẬT LÝ & HÓA HỌC ĐỜI SỐNG HÀNG NGÀY (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 17:20 - 17:30 | Render & Upload: 17:45 | **Xuất bản: 18:00 PM**
-* **Chủ đề / Tiêu đề:** Bí Mật Trốn Tìm: Tại Sao Khi Bị Dọa Giật Mình, Toàn Thân Lại Lạnh Toát Tức Thì? 🥶⚡
-* **Ý tưởng cốt lõi:** Bắt trend Minecraft Trốn Tìm Bóng Nổ. Giải thích phản xạ giật mình từ Hạch hạnh nhân (Amygdala) kích hoạt cơ chế "Cắt máu ngoại vi" (Vasoconstriction) – co thắt toàn bộ mạch máu dưới da dồn về tim và cơ bắp lớn, khiến da mất nhiệt và cơ thể lạnh toát chỉ trong 0.2 giây.
+* **Chủ đề / Tiêu đề:** Tại Sao Chạm Tay Vào Tay Nắm Cửa Mùa Đông Lại Bị Giật Điện? Bí Mật Tĩnh Điện!
+* **Ý tưởng cốt lõi:** Giải thích hiện tượng tĩnh điện khi không khí khô mùa đông làm tích tụ electron trên cơ thể con người và giải phóng đột ngột khi chạm vào vật dẫn điện bằng kim loại.
 
 ---
 
-### 📱 3. SHORT 3: THẦN KINH HỌC ÂM THANH & CẢM XÚC (Trend Nhạc Remix TikTok) (9:16)
+### 📱 3. SHORT 3: TÂM LÝ HỌC HÀNH VI & ĐỜI THƯỜNG (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Nghe Nhạc Remix Lại "Nổi Da Gà"? Sự Thật Não Bộ Bị "Nghiện" Tiếng Bass! 🎧⚡
-* **Ý tưởng cốt lõi:** Bắt trend Nhạc Remix TikTok Top 1. Giải thích hiện tượng Frisson (rùng mình âm nhạc): Sóng âm Bass tần số thấp mô phỏng hiểm họa thời tiền sử kích hoạt phản xạ sinh tồn giải phóng Adrenaline (dựng lông tóc / nổi da gà), sau đó não bộ giải phóng Dopamine ồ ạt tạo ra cảm giác khoái cảm rùng mình.
+* **Chủ đề / Tiêu đề:** Tại Sao Bạn Thấy Điện Thoại Rung Trong Túi Dù Không Có Tin Nhắn? Bí Mật Hội Chứng Rung Giả!
+* **Ý tưởng cốt lõi:** Giải thích hiện tượng Phantom Vibration Syndrome do não bộ quá nhạy cảm và ngóng đợi thông báo, tự biến các kích thích vô hại từ ma sát quần áo thành tín hiệu điện thoại rung.
