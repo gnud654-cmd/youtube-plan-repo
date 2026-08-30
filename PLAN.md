@@ -9,10 +9,10 @@
 
 ---
 
-### 📱 2. SHORT 2: VẬT LÝ & HÓA HỌC ĐỜI SỐNG HÀNG NGÀY (9:16)
+### 📱 2. SHORT 2: TÂM LÝ HỌC TIẾN HÓA & TRENDING (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 17:20 - 17:30 | Render & Upload: 17:45 | **Xuất bản: 18:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Đá Trong Quán Lại Trong Suốt Còn Đá Tủ Lạnh Nhà Bạn Lại Đục Trắng? 🧊⚡ #Shorts
-* **Ý tưởng cốt lõi:** Đá nhà bị đục do vi bọt khí và khoáng chất bị đóng bẫy khi đóng băng nhanh 4 phía, trong khi đá quán được làm đông lạnh chậm 1 chiều từ dưới lên để đẩy toàn bộ khí ra ngoài.
+* **Chủ đề / Tiêu đề:** Tại Sao Não Bộ Lại Đam Mê 'Thu Thập Dữ Liệu Xã Hội'? 🤫🔥 #Shorts
+* **Ý tưởng cốt lõi:** Bắt trend cụm từ "thu thập dữ liệu xã hội" (hóng hớt). Theo tâm lý học tiến hóa, "hóng drama" là cơ chế sinh tồn giúp trao đổi thông tin trong bộ lạc cổ đại. Đồng thời não tiết ra Dopamine (hạnh phúc) và Oxytocin (gắn kết) khi chúng ta 'buôn dưa lê' cùng người khác.
 
 ---
 
