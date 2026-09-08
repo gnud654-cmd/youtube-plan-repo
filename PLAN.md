@@ -2,14 +2,14 @@
 
 ---
 
-### 📱 1. SHORT 1: SINH HỌC & CƠ THỂ NGƯỜI (9:16)
+### 📱 1. SHORT 1: SINH HỌC & PHẢN XẠ CƠ THỂ VÔ THỨC (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 10:50 - 11:00 | Render & Upload: 11:15 | **Xuất bản: 11:30 AM**
-* **Chủ đề / Tiêu đề:** *Tại Sao Đi Thang Máy Rơi Nhanh Lại Bị 'HẪNG BỤNG'? Sự Thật Nội Tạng Trôi Nổi! 🛗😱 #Shorts*
-* **Ý tưởng cốt lõi:** Hiện tượng giảm trọng lượng biểu kiến khiến các cơ quan nội tạng (dạ dày, ruột) thực sự lơ lửng không trọng lượng trong ổ bụng trong tích tắc.
+* **Chủ đề / Tiêu đề:** Tại Sao Gõ Nhẹ Vào Đầu Gối Chân Lại TỰ ĐỘNG ĐÁ LÊN? 🦵⚡ #Shorts
+* **Ý tưởng cốt lõi:** Giải mã phản xạ gân bánh chè (Patellar Reflex) – cơ chế sinh tồn tự động giúp cơ thể giữ thô đao và co cơ đùi ngay lập tức thông qua tủy sống mà không cần chờ não bộ xử lý.
 
 ---
 
-### 📱 2. SHORT 2: GIÁC QUAN & HÀNH VI ĐỜI THƯỜNG (9:16)
+### 📱 2. SHORT 2: TÂM LÝ HỌC & VẬT LÝ SINH HỌC ĐỜI THƯỜNG (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** *Tại Sao Bị SAY XE? Cú Lừa Giác Quan Khiến Não Tưởng Bị Ngộ Độc! 🚗🤢 #Shorts*
-* **Ý tưởng cốt lõi:** Xung đột cảm giác giữa mắt nhìn tĩnh lặng bên trong xe và tiền đình ốc tai cảm nhận chuyển động rung lắc khiến não kích hoạt phản xạ nôn mửa phòng vệ.
+* **Chủ đề / Tiêu đề:** Tại Sao Bẻ Khớp Ngón Tay Lại Kêu 'RẮC RẮC'? Có Bị Viêm Khớp Không? 🖐️💥 #Shorts
+* **Ý tưởng cốt lõi:** Giải thích hiện tượng sự vỡ các bong bóng khí Nitơ đọng trong chất dịch bôi trơn khớp xương khi kéo giãn ngón tay và đập tan lầm tưởng khoa học về việc bẻ khớp gây viêm khớp.
