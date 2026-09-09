@@ -2,14 +2,14 @@
 
 ---
 
-### 📱 1. SHORT 1: SINH HỌC & PHẢN XẠ CƠ THỂ VÔ THỨC (9:16)
-* **Khung giờ sản xuất:** Bắt đầu dựng: 10:50 - 11:00 | Render & Upload: 11:15 | **Xuất bản: 11:30 AM**
-* **Chủ đề / Tiêu đề:** Tại Sao Gõ Nhẹ Vào Đầu Gối Chân Lại TỰ ĐỘNG ĐÁ LÊN? 🦵⚡ #Shorts
-* **Ý tưởng cốt lõi:** Giải mã phản xạ gân bánh chè (Patellar Reflex) – cơ chế sinh tồn tự động giúp cơ thể giữ thô đao và co cơ đùi ngay lập tức thông qua tủy sống mà không cần chờ não bộ xử lý.
+### 📱 1. SHORT 1: SINH HỌC & PHẢN XẠ CƠ THỂ (9:16)
+* **Khung giờ sản xuất:** Bắt đầu dựng: 18:20 - 18:30 | Render & Upload: 18:45 | **Xuất bản: 19:00 PM**
+* **Chủ đề / Tiêu đề:** Tại Sao Khi NGÁP Lại BỊ CHẢY NƯỚC MẮT? 🥱💧 #Shorts
+* **Ý tưởng cốt lõi:** Giải mã cơ chế khi ngáp to, các cơ mặt co bóp mạnh ép vào tuyến lệ đồng thời chèn ép ống dẫn nước mắt xuống mũi, khiến nước mắt tràn ngược ra ngoài mắt.
 
 ---
 
-### 📱 2. SHORT 2: TÂM LÝ HỌC & VẬT LÝ SINH HỌC ĐỜI THƯỜNG (9:16)
-* **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Bẻ Khớp Ngón Tay Lại Kêu 'RẮC RẮC'? Có Bị Viêm Khớp Không? 🖐️💥 #Shorts
-* **Ý tưởng cốt lõi:** Giải thích hiện tượng sự vỡ các bong bóng khí Nitơ đọng trong chất dịch bôi trơn khớp xương khi kéo giãn ngón tay và đập tan lầm tưởng khoa học về việc bẻ khớp gây viêm khớp.
+### 📱 2. SHORT 2: VẬT LÝ & HÓA HỌC ĐỜI SỐNG (9:16)
+* **Khung giờ sản xuất:** Bắt đầu dựng: 20:20 - 20:30 | Render & Upload: 20:45 | **Xuất bản: 21:00 PM**
+* **Chủ đề / Tiêu đề:** Tại Sao CỐC NƯỚC ĐÁ Lại 'ĐỔ MỒ HÔI' Bên Ngoài? 🧊💧 #Shorts
+* **Ý tưởng cốt lõi:** Bóc trần hiện tượng ngưng tụ: Không phải nước trong cốc thấm ra ngoài, mà do hơi nước trong không khí gặp thành cốc lạnh bị mất nhiệt đột ngột và đọng thành giọt nước.
