@@ -2,14 +2,14 @@
 
 ---
 
-### 📱 1. SHORT 1: SINH HỌC & PHẢN XẠ CƠ THỂ (9:16)
+### 📱 1. SHORT 1: SINH HỌC & CƠ THỂ NGƯỜI (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 18:20 - 18:30 | Render & Upload: 18:45 | **Xuất bản: 19:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Khi NGÁP Lại BỊ CHẢY NƯỚC MẮT? 🥱💧 #Shorts
-* **Ý tưởng cốt lõi:** Giải mã cơ chế khi ngáp to, các cơ mặt co bóp mạnh ép vào tuyến lệ đồng thời chèn ép ống dẫn nước mắt xuống mũi, khiến nước mắt tràn ngược ra ngoài mắt.
+* **Chủ đề / Tiêu đề:** *Tại Sao Đập Nhẹ Vào Đầu Gối Chân Lại Tự Động Đá Lên? Bí Mật Phản Xạ! 🦵⚡ #Shorts*
+* **Ý tưởng cốt lõi:** Phản xạ gân bánh chè là một cơ chế tự vệ của tủy sống, không cần não xử lý để bảo vệ cơ thể khỏi tổn thương cơ.
 
 ---
 
-### 📱 2. SHORT 2: VẬT LÝ & HÓA HỌC ĐỜI SỐNG (9:16)
+### 📱 2. SHORT 2: VẬT LÝ & HÓA HỌC ĐỜI THƯỜNG (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 20:20 - 20:30 | Render & Upload: 20:45 | **Xuất bản: 21:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao CỐC NƯỚC ĐÁ Lại 'ĐỔ MỒ HÔI' Bên Ngoài? 🧊💧 #Shorts
-* **Ý tưởng cốt lõi:** Bóc trần hiện tượng ngưng tụ: Không phải nước trong cốc thấm ra ngoài, mà do hơi nước trong không khí gặp thành cốc lạnh bị mất nhiệt đột ngột và đọng thành giọt nước.
+* **Chủ đề / Tiêu đề:** *Tại Sao Hạt Ngô Lại Nổ Tung Thành Bắp Rang Bơ? Sức Mạnh Áp Suất! 🍿💥 #Shorts*
+* **Ý tưởng cốt lõi:** Hạt ngô chứa lượng nhỏ nước bên trong, khi đun nóng nước biến thành hơi tạo áp suất cực lớn phá vỡ vỏ ngoài, làm tinh bột nở bung ra.
