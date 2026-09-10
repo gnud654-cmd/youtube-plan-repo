@@ -4,8 +4,8 @@
 
 ### 📱 1. SHORT 1: SINH HỌC & CƠ THỂ NGƯỜI (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 18:20 - 18:30 | Render & Upload: 18:45 | **Xuất bản: 19:00 PM**
-* **Chủ đề / Tiêu đề:** *Tại Sao Đập Nhẹ Vào Đầu Gối Chân Lại Tự Động Đá Lên? Bí Mật Phản Xạ! 🦵⚡ #Shorts*
-* **Ý tưởng cốt lõi:** Phản xạ gân bánh chè là một cơ chế tự vệ của tủy sống, không cần não xử lý để bảo vệ cơ thể khỏi tổn thương cơ.
+* **Chủ đề / Tiêu đề:** *Tại Sao Chúng Ta Lại Chóng Mặt Khi Đứng Lên Quá Nhanh? 💫🩸 #Shorts*
+* **Ý tưởng cốt lõi:** Khi đứng dậy đột ngột, máu chưa kịp bơm đủ lên não do tác động của trọng lực (hạ huyết áp tư thế), khiến não tạm thời thiếu oxy gây chóng mặt chớp nhoáng.
 
 ---
 
