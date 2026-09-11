@@ -4,8 +4,8 @@
 
 ### 📱 1. SHORT 1: KHOA HỌC DỤNG CỤ & LUẬT CHƠI (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 18:20 - 18:30 | Render & Upload: 18:45 | **Xuất bản: 19:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Quả Bóng Tennis Lại Có Lớp Lông Xù Xì? 🎾 #Shorts
-* **Ý tưởng cốt lõi:** Giải mã lớp nỉ xù xì trên quả bóng tennis giúp tạo lực cản không khí để bóng không bay quá nhanh vượt sân, đồng thời tạo độ ma sát để tay vợt điều khiển các cú xoáy ngoạn mục.
+* **Chủ đề / Tiêu đề:** Tại Sao Cú Sút "Knuckleball" Lại Khiến Quả Bóng Lắc Lư Ma Thuật? ⚽👻 #Shorts
+* **Ý tưởng cốt lõi:** Khi sút cực mạnh mà bóng gần như không xoáy (knuckleball), luồng không khí đi qua các rãnh nối trên bề mặt bóng tạo ra những vùng nhiễu động không đều, làm áp suất biến thiên liên tục khiến quả bóng rung lắc, đổi hướng vô định đánh lừa thủ môn.
 
 ---
 
