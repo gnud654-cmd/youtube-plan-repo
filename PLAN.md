@@ -4,12 +4,12 @@
 
 ### 📱 1. SHORT 1: KHOA HỌC DỤNG CỤ & LUẬT CHƠI (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 18:20 - 18:30 | Render & Upload: 18:45 | **Xuất bản: 19:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Cú Sút "Knuckleball" Lại Khiến Quả Bóng Lắc Lư Ma Thuật? ⚽👻 #Shorts
-* **Ý tưởng cốt lõi:** Khi sút cực mạnh mà bóng gần như không xoáy (knuckleball), luồng không khí đi qua các rãnh nối trên bề mặt bóng tạo ra những vùng nhiễu động không đều, làm áp suất biến thiên liên tục khiến quả bóng rung lắc, đổi hướng vô định đánh lừa thủ môn.
+* **Chủ đề / Tiêu đề:** Tại Sao Các Kình Ngư Bơi Lội Phải CẠO SẠCH LÔNG Cơ Thể? 🏊‍♂️⚡ #Shorts
+* **Ý tưởng cốt lõi:** Giải mã cơ chế thủy động lực học: cạo sạch lông giúp giảm ma sát với nước, tăng cảm giác nước của da và tiết kiệm từng 0.01 giây quyết định tấm huy chương vàng.
 
 ---
 
 ### 📱 2. SHORT 2: VẬT LÝ THỂ THAO & CƠ SINH HỌC (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 20:20 - 20:30 | Render & Upload: 20:45 | **Xuất bản: 21:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Cầu Thủ Có Thể Sút Phạt Bẻ Cong Đường Đi Của Bóng? ⚽ #Shorts
-* **Ý tưởng cốt lõi:** Giải mã Hiệu ứng Magnus trong vật lý: Khi quả bóng vừa bay vừa xoáy tròn, sự chênh lệch áp suất không khí ở hai bên làm đường bay bị bẻ cong hình quả chuối đánh lừa hoàn toàn thủ môn.
+* **Chủ đề / Tiêu đề:** Tại Sao Vận Động Viên Điền Kinh Luôn CHẠY NGƯỢC CHIỀU Kim Đồng Hồ? 🏃‍♂️🔄 #Shorts
+* **Ý tưởng cốt lõi:** Giải thích hiện tượng vật lý và sinh học: Tim người nằm lệch trái tạo lực quán tính tối ưu khi nghiêng người sang trái lúc vào khúc cua, kết hợp ưu thế chân thuận (đa số chân phải) giúp đạt tốc độ tối đa.
