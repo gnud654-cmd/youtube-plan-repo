@@ -2,10 +2,10 @@
 
 ---
 
-### 📱 1. SHORT 1: KHOA HỌC DỤNG CỤ & LUẬT CHƠI (9:16)
+### 📱 1. SHORT 1: LỊCH SỬ & VŨ KHÍ CỔ ĐẠI (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 17:20 - 17:30 | Render & Upload: 17:45 | **Xuất bản: 18:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Vợt Tennis Lại Đan Dây Lưới Thay Vì Làm Mặt Phẳng Liền? 🎾 #Shorts
-* **Ý tưởng cốt lõi:** Giải thích hiệu ứng lò xo bật lại (trampoline effect) và khả năng cắn bóng tạo xoáy (topspin) cực đại của lưới dây đan, điều mà một mặt phẳng liền không thể làm được.
+* **Chủ đề / Tiêu đề:** Tại Sao Vũ Khí Thời Tiền Sử Bằng Đá (Obsidian) Lại Sắc Bén Hơn Cả Dao Mổ Y Tế? 🪨🗡️ #Shorts
+* **Ý tưởng cốt lõi:** Khám phá bí ẩn của đá vỏ chai Obsidian. Dù chỉ là đá từ thời tiền sử, nhưng nhờ cấu trúc vỡ thủy tinh độc đáo, nó tạo ra lưỡi cắt sắc bén đến mức có thể cắt đứt tế bào mà không làm rách chúng, vượt trội hơn cả dao mổ thép không gỉ hiện đại.
 
 ---
 
