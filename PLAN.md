@@ -2,14 +2,14 @@
 
 ---
 
-### 📱 1. SHORT 1: LỊCH SỬ & VŨ KHÍ CỔ ĐẠI (9:16)
+### 📱 1. SHORT 1: KHOA HỌC THỂ THAO & TRENDING (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 17:20 - 17:30 | Render & Upload: 17:45 | **Xuất bản: 18:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Vũ Khí Thời Tiền Sử Bằng Đá (Obsidian) Lại Sắc Bén Hơn Cả Dao Mổ Y Tế? 🪨🗡️ #Shorts
-* **Ý tưởng cốt lõi:** Khám phá bí ẩn của đá vỏ chai Obsidian. Dù chỉ là đá từ thời tiền sử, nhưng nhờ cấu trúc vỡ thủy tinh độc đáo, nó tạo ra lưỡi cắt sắc bén đến mức có thể cắt đứt tế bào mà không làm rách chúng, vượt trội hơn cả dao mổ thép không gỉ hiện đại.
+* **Chủ đề / Tiêu đề:** *Tại Sao Quả Bóng Pickleball Lại Có Rất Nhiều Lỗ Trống? 🏓🕳️ #Shorts*
+* **Ý tưởng cốt lõi:** Bắt trend Pickleball! Các lỗ hổng (26 hoặc 40 lỗ) giúp tạo lực cản không khí có chủ ý để ghìm tốc độ bóng lại, giúp dễ kiểm soát nhịp độ và ổn định đường bóng trong gió.
 
 ---
 
-### 📱 2. SHORT 2: VẬT LÝ THỂ THAO & CƠ SINH HỌC (9:16)
+### 📱 2. SHORT 2: KHOA HỌC THỂ THAO (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao VĐV Nhảy Cao Lại UỐN CONG LƯNG Qua Xà Thay Vì Nhảy Úp Bụng? 🤸‍♂️ #Shorts
-* **Ý tưởng cốt lõi:** Giải mã kỹ thuật Fosbury Flop nổi tiếng: Khi uốn cong lưng, trọng tâm cơ thể VĐV thực chất rơi xuống BÊN DƯỚI thanh xà, giúp họ vượt qua chiều cao kỷ lục mà không tốn thêm lực bật.
+* **Chủ đề / Tiêu đề:** *Tại Sao Quả Bóng Golf Lại Có Nhiều Vết Lõm Mà Không Phải Tròn Xoe? ⛳🌬️ #Shorts*
+* **Ý tưởng cốt lõi:** Hiệu ứng Magnus từ các vết lõm làm giảm cực mạnh lực cản không khí và tăng lực nâng, giúp quả bóng bay xa gấp đôi so với bóng trơn.
