@@ -9,7 +9,7 @@
 
 ---
 
-### 📱 2. SHORT 2: CƠ KHÍ KHÍ TÀI HẠNG NẶNG (9:16)
+### 📱 2. SHORT 2: CÔNG NGHỆ BẢO VỆ KHÍ TÀI (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Xe Tăng KHÔNG CHẠY BÁNH LỐP Nhưng Vẫn Băng Băng Mọi Địa Hình? 🚜 #Shorts
-* **Ý tưởng cốt lõi:** Giải thích nguyên lý phân bổ áp suất của hệ thống bánh xích liên tục. Dù nặng hàng chục tấn, diện tích tiếp xúc khổng lồ của bánh xích giúp xe tăng không bao giờ bị lầy bẫy bùn.
+* **Chủ đề / Tiêu đề:** Tại Sao Xe Tăng Lại Gắn "Gạch Nổ" Trên Vỏ Để Tự Vệ? (Giáp ERA) 🛡️💥 #Shorts
+* **Ý tưởng cốt lõi:** Giải mã Giáp Phản Ứng Nổ (ERA). Trông như những viên gạch nhưng bên trong chứa thuốc nổ. Khi bị đạn lõm hỏa tiễn (HEAT) bắn trúng, khối ERA sẽ nổ ngược ra ngoài, làm chệch hướng và phân tán luồng plasma kim loại nóng chảy, giúp bảo vệ lớp giáp chính của xe tăng an toàn.
