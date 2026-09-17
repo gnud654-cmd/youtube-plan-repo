@@ -2,10 +2,10 @@
 
 ---
 
-### 📱 1. SHORT 1: KHÁM PHÁ VŨ KHÍ CÁ NHÂN (9:16)
+### 📱 1. SHORT 1: BÍ ẨN VŨ KHÍ BẮN TỈA (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 17:20 - 17:30 | Render & Upload: 17:45 | **Xuất bản: 18:00 PM**
-* **Chủ đề / Tiêu đề:** Bí Mật Lựu Đạn: Tại Sao Rút Chốt Ra Vẫn KHÔNG NỔ NGAY? 💣 #Shorts
-* **Ý tưởng cốt lõi:** Giải mã cơ chế 'Cần mỏ vịt' và kíp nổ trễ 3-5 giây của lựu đạn. Rút chốt chỉ là mở khóa an toàn, chỉ khi buông tay thả cần mỏ vịt thì kim hỏa mới đập vào hạt nổ.
+* **Chủ đề / Tiêu đề:** Tại Sao Lính Bắn Tỉa Phải Quấn Vải Quanh Nòng Súng? Không Chỉ Để Ngụy Trang! 🎯 #Shorts
+* **Ý tưởng cốt lõi:** Bật mí tác dụng của "Mirage Band" (Dải tản nhiệt). Khi bắn, nòng súng nóng bốc hơi làm khúc xạ ánh sáng (ảo ảnh nhiệt), khiến mục tiêu trong ống ngắm bị biến dạng và lệch vị trí. Lớp vải cách nhiệt sẽ điều hướng luồng khí nóng tản ra hai bên, giúp xạ thủ duy trì tầm nhìn quang học tuyệt đối sắc nét ở cự ly hàng km.
 
 ---
 
