@@ -2,14 +2,14 @@
 
 ---
 
-### 📱 1. SHORT 1: GIẢI MÃ CÔNG NGHỆ HÀNG KHÔNG (9:16)
+### 📱 1. SHORT 1: BÍ ẨN CÔNG NGHỆ BẢO VỆ (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 17:20 - 17:30 | Render & Upload: 17:45 | **Xuất bản: 18:00 PM**
-* **Chủ đề / Tiêu đề:** Bí Ẩn Những Đường "Ziczac" Trên Kính Lái Tiêm Kích: Không Phải Ăng-ten Đâu! ✈️💥 #Shorts
-* **Ý tưởng cốt lõi:** Bật mí về MDC (Dây nổ thu nhỏ). Kính lái tiêm kích rất dày, nếu phi công phóng ghế thoát hiểm sẽ đập đầu gãy cổ. Sợi dây ziczac dán trên kính thực chất chứa thuốc nổ, tự động kích hoạt phá vụn tấm kính đúng vài phần nghìn giây trước khi ghế phóng bay lên, mở đường sống cho phi công.
+* **Chủ đề / Tiêu đề:** Tại Sao Xe Tăng Lại Hàn "Hàng Rào Sắt"? Không Phải Để Cản Tên Lửa Nổ! 🛡️ #Shorts
+* **Ý tưởng cốt lõi:** Bật mí cơ chế Đoản Mạch của Giáp Lồng (Slat Armor). Đa số nghĩ nó dùng để kích nổ sớm đạn chống tăng RPG (B-41). Sự thật: Nó được tính toán kích thước kẽ hở để kẹp nát phần chóp mỏng của quả đạn trước khi chóp chạm kim hỏa. Khi chóp bị bóp méo, mạch điện nối xuống đáy quả đạn bị đứt. Quả RPG kẹt cứng giữa 2 thanh sắt, gãy gập và hoàn toàn TỊT NGÒI!
 
 ---
 
-### 📱 2. SHORT 2: CÔNG NGHỆ THOÁT HIỂM KHÔNG TƯỞNG (9:16)
+### 📱 2. SHORT 2: KHÍ TÀI HẠNG NẶNG & THỰC CHIẾN (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** Phóng Ghế Thoát Hiểm Khỏi Trực Thăng: Tránh Thế Nào Được Cánh Quạt "Máy Xay"? 🚁🚀 #Shorts
-* **Ý tưởng cốt lõi:** Giải mã ghế thoát hiểm trên trực thăng tấn công Kamov Ka-52. Đa số trực thăng không thể phóng ghế vì vướng cánh quạt. Nhưng Ka-52 tự "cắt cổ" mình: Khi giật cần, chốt nổ sẽ nổ tung bắn văng toàn bộ 6 cánh quạt khổng lồ ra xa. Khi không trung đã trống trải, rocket trên ghế mới đánh lửa phóng phi công lên trời an toàn.
+* **Chủ đề / Tiêu đề:** Tại Sao Siêu Xe Tăng T-90 Lại Luôn Mang Theo Một... Khúc Gỗ Ở Đuôi? 🪵🚜 #Shorts
+* **Ý tưởng cốt lõi:** Giải mã khúc gỗ cứu hộ (Unditching Beam) đặc trưng của xe tăng Nga. Xe tăng ngập tràn công nghệ nhưng luôn phải vác theo khúc gỗ thô sơ này. Khi xe 50 tấn sa lầy, xích thép trơn trượt quay tại chỗ, kíp lái sẽ lấy xích sắt buộc khúc gỗ vào bánh xích. Khi chạy, xích cuộn khúc gỗ chui xuống gầm, biến nó thành thanh đòn bẩy siêu bám đất, nhấc bổng chiếc xe vọt ra khỏi vũng lầy.
