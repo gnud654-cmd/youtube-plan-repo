@@ -9,7 +9,7 @@
 
 ---
 
-### 📱 2. SHORT 2: KHÍ TÀI HẠNG NẶNG & THỰC CHIẾN (9:16)
+### 📱 2. SHORT 2: CÔNG NGHỆ TÁC CHIẾN HÀNG KHÔNG (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Siêu Xe Tăng T-90 Lại Luôn Mang Theo Một... Khúc Gỗ Ở Đuôi? 🪵🚜 #Shorts
-* **Ý tưởng cốt lõi:** Giải mã khúc gỗ cứu hộ (Unditching Beam) đặc trưng của xe tăng Nga. Xe tăng ngập tràn công nghệ nhưng luôn phải vác theo khúc gỗ thô sơ này. Khi xe 50 tấn sa lầy, xích thép trơn trượt quay tại chỗ, kíp lái sẽ lấy xích sắt buộc khúc gỗ vào bánh xích. Khi chạy, xích cuộn khúc gỗ chui xuống gầm, biến nó thành thanh đòn bẩy siêu bám đất, nhấc bổng chiếc xe vọt ra khỏi vũng lầy.
+* **Chủ đề / Tiêu đề:** Khẩu Pháo "Ma Thuật" Tự Động "Liếc" Theo Ánh Mắt Phi Công Trực Thăng Apache! 🚁👁️ #Shorts
+* **Ý tưởng cốt lõi:** Giải mã hệ thống hiển thị và ngắm bắn tích hợp trên mũ bay (IHADSS) của AH-64 Apache. Để ngắm bắn khẩu pháo 30mm dưới bụng máy bay, phi công không hề dùng tay! Thay vào đó, cảm biến quang học trên mũ sẽ bám sát từng cử động đầu của phi công. Phi công chỉ việc ngoảnh đầu "nhìn" về hướng mục tiêu, khẩu pháo nặng nề bên dưới gầm sẽ tự động xoay và ngắm thẳng đúng vào điểm đó trong tích tắc. Nhìn đi đâu, đạn bay tới đó!
