@@ -4,12 +4,12 @@
 
 ### 📱 1. SHORT 1: CƠ CHẾ SÚNG ĐẠN (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 17:20 - 17:30 | Render & Upload: 17:45 | **Xuất bản: 18:00 PM**
-* **Chủ đề / Tiêu đề:** Tại Sao Kim Hỏa Đập Nhẹ Vào Đáy Đạn Lại Kích Nổ Cả Viên Đạn? 💥🔫 #Shorts
-* **Ý tưởng cốt lõi:** Giải mã cơ chế hóa - cơ học của Hạt Nổ (Primer) ở đáy vỏ đạn, nơi hợp chất nhạy nổ biến lực đập cơ học nhỏ thành ngọn lửa bùng phát đốt cháy toàn bộ thuốc phóng trong 0.001 giây.
+* **Chủ đề / Tiêu đề:** Bí Mật Khóa Nòng Xoay AR-15: Tại Sao Súng Lại Khóa Chặt Trước Khi Bắn? 💥🔫 #Shorts
+* **Ý tưởng cốt lõi:** Giải mã cơ chế khóa nòng xoay (Rotary Bolt) chịu áp suất cực lớn trong buồng đạn, chỉ mở khóa giải phóng vỏ đạn sau khi đầu đạn đã rời khỏi nòng an toàn.
 
 ---
 
 ### 📱 2. SHORT 2: SỰ THẬT VŨ KHÍ CÁ NHÂN (9:16)
 * **Khung giờ sản xuất:** Bắt đầu dựng: 19:20 - 19:30 | Render & Upload: 19:45 | **Xuất bản: 20:00 PM**
-* **Chủ đề / Tiêu đề:** Sự Thật Đạn Hollow Point: Tại Sao Bị CẤM Trong Chiến Tranh Nhưng Cảnh Sát Lại Dùng? 💥🎯 #Shorts
-* **Ý tưởng cốt lõi:** Lật mở thiết kế đầu đạn rỗng (Hollow Point) tự nở xòe như bông hoa khi va chạm mô mềm để triệt tiêu hoàn toàn động năng, ngăn đạn xuyên thấu gây tổn hại người xung quanh.
+* **Chủ đề / Tiêu đề:** Tại Sao Súng Lục Chiappa Rhino Lại Đặt Nòng Ở Đáy Ổ Quay? Cú Lừa Triệt Lực Giật! 💥🤠 #Shorts
+* **Ý tưởng cốt lõi:** Khai thác nguyên lý Trục nòng súng (Bore Axis) hạ thấp ngang hàng với bàn tay, truyền lực giật thẳng vào cánh tay thay vì làm hất ngược nòng súng lên trên như súng truyền thống.
